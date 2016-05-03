@@ -1,0 +1,11 @@
+#container{
+	display: flex;
+	flex-direction: column;
+}
+
+.button{
+	display: flex;
+	background-color: rgba(96,96,96,0.2);
+	border-radius: 50%;
+	max-width: 5em;
+}
