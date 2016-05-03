@@ -1,6 +1,6 @@
+#Ajax + Api
 ##Single page movie search engine using OMDb.com Api.
-
-#app.js
+###app.js
 ```javascript
 $('#search > .button').on('click', function() {
     console.log('click');
